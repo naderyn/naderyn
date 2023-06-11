@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Expert+in+IoT+Technologies;Software+Engineer;My+passion+is+providing+solutions+using+existing+technologies;That's+why+I'm+always+learning+new+technologies+everyday+and+using+them+in+real+projects;Especially+in+Web+Development+and+IoT;Software+and+IoT+are+my+life+%E2%99%A5;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Expert+in+IoT+Technologies;Software+Engineer;My+passion+is+providing+solutions;using+all+existing+technologies;That's+why+I'm+always+learning+new+technologies+everyday+and+using+them+in+real+projects;Especially+in+Web+Development+and+IoT;Software+and+IoT+are+my+life+%E2%99%A5;">
   </a>
 </p>
 
