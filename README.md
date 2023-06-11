@@ -6,10 +6,13 @@
 
 <h1 align="center"> Hi All, I’m @nader <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Devloper;Expert+in+IOT+Technolgoies;Software+enginner;My+passion+is+providing+solutions+by+using+all+exsitnce+technolgies;That's+why+I'm always learing new technologies everyday and use it in real projects;Spechially+in+Web+Developing+&+IOT;Software & IOT is my life ♥;
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Expert+in+IoT+Technologies;Software+Engineer;My+passion+is+providing+solutions+using+existing+technologies;That's+why+I'm+always+learning+new+technologies+everyday+and+using+them+in+real+projects;Especially+in+Web+Development+and+IoT;Software+and+IoT+are+my+life+%E2%99%A5;">
+  </a>
 </p>
+
 
 
 
@@ -48,13 +51,13 @@
     
 - **Web Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-   ![React.js](https://img.shields.io/badge/React.js%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-   ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-   ![.NET](https://img.shields.io/badge/.NET%20-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
+    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+    ![Node.js](https://img.shields.io/badge/Node.js%20-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![React.js](https://img.shields.io/badge/React.js%20-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+    ![Angular](https://img.shields.io/badge/Angular%20-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+    ![.NET](https://img.shields.io/badge/.NET%20-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 
 - **DataBase**:
 
@@ -64,13 +67,13 @@
 
  - **IOT_Platforms**:
            
- ![MOT](https://img.shields.io/badge/MOT%20-%238AC6F1.svg?style=for-the-badge)
- ![ThingsBoard](https://img.shields.io/badge/ThingsBoard%20-%231E90FF.svg?style=for-the-badge)
+    ![MOT](https://img.shields.io/badge/MOT%20-%238AC6F1.svg?style=for-the-badge)
+    ![ThingsBoard](https://img.shields.io/badge/ThingsBoard%20-%231E90FF.svg?style=for-the-badge)
 
  - **Mobile_Apps**:
 
-![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart%20-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+    ![Flutter](https://img.shields.io/badge/Flutter%20-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+    ![Dart](https://img.shields.io/badge/Dart%20-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
                  
                  
