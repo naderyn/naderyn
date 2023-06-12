@@ -93,6 +93,8 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![API](https://img.shields.io/badge/API%20-%23007ACC.svg?style=for-the-badge)
     ![npm](https://img.shields.io/badge/npm%20-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+    ![CLI](https://img.shields.io/badge/CLI%20-%23117D62.svg?style=for-the-badge&logo=terminal&logoColor=white)
+
 
 
 </p>
