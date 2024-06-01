@@ -21,15 +21,15 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `IOT Projects & solution Designs` as `IOT Engineer`
+- 🔭 I’m currently working in ` ERP systems developing & integrations its include alsdo IOT Projects & solution Designs` as `Software Engineer`
 
-- 👯 I’m looking forward to collaborate on high scale projects on IOT & WEB Devloping.
+- 👯 I’m looking forward to collaborate on high scale projects on ERP, IOT & WEB Devloping.
 
 - 👨‍💻 You can access all of my open-source projects here on **[GitHub](https://github.com/naderyn?tab=repositories)**
 
 - 💬 Ask me about anything, I Will be happy to Help alway 😉
 
-- ⚡ Coding fact: "There are over 700 different programming languages".
+- ⚡ Coding fact: "There are over 700 different programming languages" and for me consepts in programming coming first.
 
 - 💪🏼 Fav Quote: "Great Software Engineer never stop learning".
 
