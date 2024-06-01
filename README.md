@@ -21,7 +21,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in ` ERP systems developing & integrations its include alsdo IOT Projects & solution Designs` as `Software Engineer`
+- 🔭 I’m currently working in ` ERP systems developing & integrations its include also IOT Projects & solution Designs` as `Software Engineer`
 
 - 👯 I’m looking forward to collaborate on high scale projects on ERP, IOT & WEB Devloping.
 
